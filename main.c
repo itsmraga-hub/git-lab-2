@@ -1,8 +1,13 @@
 #include <stdio.h>
+#include <string.h>
 
 void main(){
-	int a = 10;
-	int b = 20;
-	printf("%d,%d",a,b);
+//	char name[10] = {'j','a','m','i','e'};
+//	for(int i=0;i<=sizeof(name);i++){
+//		printf(name[i]);
+//	}
+//
+printf("Jamie");
+ 
 
 }
